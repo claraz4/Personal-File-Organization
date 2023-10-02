@@ -16,7 +16,7 @@ def replace_underscore(title):
 def is_workout(title):
     # Check if the title contains a keyword related to workouts
     keywords = ["arms", "legs", "abs", "lower", "upper", "core", "workout", "cardio", "calisthenics", "body weight",
-                "hiit", "pilates", "stretching", "yoga", "warm up", "full body", "back", "glute", "chest"]
+                "hiit", "pilates", "stretch", "yoga", "warm up", "full body", "back", "glute", "chest"]
 
     for k in keywords:
         if k in title.lower():
