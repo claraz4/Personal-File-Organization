@@ -25,16 +25,7 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -72,46 +63,16 @@ The project goes beyond simple organization. It features a tracking mechanism th
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Clone the repo...
+1) Clone the repo using the following command:
+```bash
+git clone https://github.com/claraz4/Personal-File-Organization.git
+```
 
-Feel free to adapt this version to align with your project's tone and style.
+2) Since this project is designated for personal use and may require customization, feel free to modify the code as you see fit.
 
-### Prerequisites
+3) Once you're satisfied with the changes, run your Python code, and voilà!
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
+4) If you're getting tired of manually running your code every time you want to organize your folder, consider automating your task by taking advantage of your PC's task scheduler.
 
 
 <!-- ACKNOWLEDGMENTS -->
